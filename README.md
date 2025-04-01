@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Edgar Alfredo Gonzales Huisa</h1>
 <h3 align="center"> Tecnico en Electronica y Estudiante de Ing. de Sistemas e Informática</h3>
 
-- Estoy trabajando como administrador de Base de Datos **Minera Bateas**
+- Estoy trabajando como administrador de Base de Datos **En Minera Bateas**
 
 - 💬 Pregúntame sobre **SQL Server, Python y Java Scrip**
 
