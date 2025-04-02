@@ -7,10 +7,6 @@
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
-
 <h1 align="center">Hola 👋, soy Edgar Alfredo Gonzales Huisa</h1>
 <h3 align="center"> Tecnico en Sistemas y Estudiante de Ing. de Sistemas e Informática</h3>
 
