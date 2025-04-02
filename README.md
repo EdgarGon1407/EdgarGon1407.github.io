@@ -3,10 +3,6 @@
   <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
 </p>
 
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
-
 <h1 align="center">Hola 👋, soy Edgar Alfredo Gonzales Huisa</h1>
 <h3 align="center"> Tecnico en Sistemas y Estudiante de Ing. de Sistemas e Informática</h3>
 
