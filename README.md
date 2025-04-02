@@ -1,7 +1,4 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
-</p>
 
 <h1 align="center">Hola 👋, soy Edgar Alfredo Gonzales Huisa</h1>
 <h3 align="center"> Tecnico en Sistemas y Estudiante de Ing. de Sistemas e Informática</h3>
