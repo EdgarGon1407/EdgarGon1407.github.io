@@ -6,7 +6,7 @@
 </p>
 <h3 align="center"> Tecnico en Sistemas y Estudiante de Ing. de Sistemas e Informática</h3>
 
-- Estoy trabajando como administrador de Base de Datos **En Minera Bateas**
+- Estoy trabajando como Analista de Modelamiento **En Minera Bateas**
 
 - 💬 Pregúntame sobre **SQL Server, Python y Java Scrip**
 
